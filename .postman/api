@@ -11,7 +11,7 @@ rootDirectory = postman/collections
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index.yaml","metaData":{}}
-files[] = {"path":"ssa/New.yaml","metaData":{}}
+files[] = {"path":"ssa/sss.yaml","metaData":{}}
 files[] = {"path":"test/New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
