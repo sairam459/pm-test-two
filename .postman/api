@@ -12,7 +12,7 @@ rootDirectory = postman/collections
 rootDirectory = postman/schemas
 files[] = {"path":"index.yaml","metaData":{}}
 files[] = {"path":"test/New.yaml","metaData":{}}
-files[] = {"path":"test/ssa/sss.yaml","metaData":{}}
+files[] = {"path":"test/one/sss.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
